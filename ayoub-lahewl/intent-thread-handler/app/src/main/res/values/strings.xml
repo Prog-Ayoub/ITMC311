@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="go_intent">Go to Intent</string>
+    <string name="intent_message">Here is intent activity!</string>
+    <string name="get_back">Get back to main</string>
+    <string name="go_google">Go to Google</string>
+    <string name="btn_2_scd">2 seconds button</string>
+    <string name="btn_4_scd">4 seconds button</string>
+    <string name="message_btn">Message</string>
+    <string name="go_thread">Go to thread</string>
+    <string name="go_handler">Go to handler</string>
+    <string name="back_from_handler">Go back to main</string>
+    <string name="welcome_message">Welcome to assignment</string>
+</resources>
