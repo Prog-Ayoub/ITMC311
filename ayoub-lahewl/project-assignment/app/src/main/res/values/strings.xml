@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Usage Tracker</string>
+
+    <string-array name="interval_options">
+        <item>اليوم</item>
+        <item>الأسبوع</item>
+        <item>الشهر</item>
+        <item>السنة</item>
+    </string-array>
+</resources>
